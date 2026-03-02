@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Echoes in Rain",
+  "base_artist": "Enya",
+  "createdAt": "2026-03-02T12:31:32.732594Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Echoes in Rain",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/01_Echoes_in_Rain_Enya.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Echoes In Rain",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/02_Echoes_In_Rain_Enya.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Echoes In Rain",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/03_Echoes_In_Rain_Enya.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Echoes in Rain",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/04_Echoes_in_Rain_Enya.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Echoes in Rain",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/05_Echoes_in_Rain_Enya.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Echoes in Rain",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/06_Echoes_in_Rain_Enya.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Echoes In Rain",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/07_Echoes_In_Rain_Enya.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Enya - Echoes In Rain (Official Music Video)",
+      "artist": "enyatv",
+      "has_synced": true,
+      "path": "select/08_Enya_-_Echoes_In_Rain_(Official_Music_Video)_enyatv.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Echoes In Rain",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/09_Echoes_In_Rain_Enya.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Echoes in Rain",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/10_Echoes_in_Rain_Enya.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "5. Echoes In Rain",
+      "artist": "enya",
+      "has_synced": true,
+      "path": "select/11_5._Echoes_In_Rain_enya.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Echoes In Rain",
+      "artist": "Enya",
+      "has_synced": false,
+      "path": "select/pl_01_Echoes_In_Rain_Enya.txt"
+    }
+  ]
+}
